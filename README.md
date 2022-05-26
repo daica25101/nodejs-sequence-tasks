@@ -1,0 +1,1 @@
+Force task to run sequence even if they are block io or non block io functions. This is a comparison between tasks handled by eventloop and bluebird control flow 
